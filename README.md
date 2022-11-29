@@ -1,2 +1,0 @@
-# TCC
-Trabalho do TCC
